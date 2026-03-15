@@ -8,7 +8,9 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 - List at least two concrete bugs you noticed at the start  
   (for example: "the secret number kept changing" or "the hints were backwards").
 
----
+---The first look of game for me was not interesting as it was all descriptions and texts box. 
+---The hints were backwards and it was giving the wrong message after each guess.
+---Even though range was between 1-50 in hard mode, when I entered "100" it gave me message to Go Higher. And the button for new game doesnt work.
 
 ## 2. How did you use AI as a teammate?
 
@@ -16,7 +18,7 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 - Give one example of an AI suggestion that was correct (including what the AI suggested and how you verified the result).
 - Give one example of an AI suggestion that was incorrect or misleading (including what the AI suggested and how you verified the result).
 
----
+---I used Claude for this project. 
 
 ## 3. Debugging and testing your fixes
 
